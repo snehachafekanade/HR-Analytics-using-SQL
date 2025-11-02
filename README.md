@@ -72,6 +72,6 @@ HR-Analytics-using-SQL/
 
 ## Author & Contact
 
-**Sneha Chafekanade**    
+Sneha Chafekanade    
 📧 Email: n.snehachafekar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-chafekanade)
