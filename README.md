@@ -9,7 +9,7 @@ A complete SQL-based case study to build, populate, and analyze a Human Resource
 - [Skills Demonstrated](#skills-demonstrated)
 - [Result and Conclusion](#result-and-conclusion)
 - [Project Structure](#project-structure)
-- [Author & Contact](#author--contact)
+- [Author and Contact](#author-and-contact)
 
 ---
 
