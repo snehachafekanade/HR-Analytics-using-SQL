@@ -13,14 +13,14 @@ A complete SQL-based case study to build, populate, and analyze a Human Resource
 
 ---
 
-## 📖 Overview
+## Overview
 This project demonstrates end-to-end SQL skills by designing and analyzing an HR database.  
 It includes creating tables, inserting realistic employee data, and answering over 50 real-world business questions related to employees, departments, and job history.  
 The goal is to show how SQL can turn raw HR data into meaningful insights for decision-making.
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 The HR department needs a structured way to manage and analyze employee-related data — including salaries, departments, job roles, and locations.  
 This project builds a relational database and uses SQL queries to answer questions such as:
 - Which department has the highest average salary?
@@ -30,7 +30,7 @@ This project builds a relational database and uses SQL queries to answer questio
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 **Database Design (DDL)**
 - Creating tables, views, and relationships  
@@ -48,13 +48,13 @@ This project builds a relational database and uses SQL queries to answer questio
 
 ---
 
-## 📊 Result and Conclusion
+## Result and Conclusion
 This project showcases how SQL can be used to extract actionable HR insights such as employee performance trends, department-level salary summaries, and organizational structure analytics.  
 It demonstrates strong command of database design, data manipulation, and analytical thinking — essential skills for any Data Analyst or Business Intelligence role.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 HR-Analytics-using-SQL/
 ├── .gitignore
@@ -71,7 +71,7 @@ HR-Analytics-using-SQL/
 ```
 ---
 
-## 👩‍💻 Author and Contact
+## Author and Contact
 
 **Sneha Chafekanade**   
 📧 Email: n.snehachafekar@gmail.com  
