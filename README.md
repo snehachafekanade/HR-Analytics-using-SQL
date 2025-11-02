@@ -4,12 +4,23 @@ A complete SQL-based case study to build, populate, and analyze a Human Resource
 ---
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Result and Conclusion](#result-and-conclusion)
-- [Project Structure](#project-structure)
-- [Author & Contact](#author--contact)
+## 📖 Overview
+<a name="overview"></a>
+
+## 🧩 Problem Statement
+<a name="problem-statement"></a>
+
+## 🧠 Skills Demonstrated
+<a name="skills-demonstrated"></a>
+
+## 📊 Result and Conclusion
+<a name="result-and-conclusion"></a>
+
+## 📂 Project Structure
+<a name="project-structure"></a>
+
+## 👩‍💻 Author and Contact
+<a name="author--contact"></a>
 
 ---
 
@@ -55,7 +66,7 @@ It demonstrates strong command of database design, data manipulation, and analyt
 ---
 
 ## 📂 Project Structure
-bash
+```bash
 HR-Analytics-using-SQL/
 ├── .gitignore
 ├── 01_schema_creation.sql
@@ -68,10 +79,10 @@ HR-Analytics-using-SQL/
 │   ├── 05_subqueries.sql
 │   └── 06_joins.sql
 └── README.md
-
+```
 ---
 
-## Author and Contact
+## 👩‍💻 Author and Contact
 
 **Sneha Chafekanade**   
 📧 Email: n.snehachafekar@gmail.com  
