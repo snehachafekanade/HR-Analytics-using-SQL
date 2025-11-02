@@ -53,9 +53,8 @@ This project showcases how SQL can be used to extract actionable HR insights suc
 It demonstrates strong command of database design, data manipulation, and analytical thinking — essential skills for any Data Analyst or Business Intelligence role.
 
 ---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-## 📂 Project Structure
-``
 HR-Analytics-using-SQL/
 ├── 01_schema_creation.sql
 ├── 02_data_insertion.sql
