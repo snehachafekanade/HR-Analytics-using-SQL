@@ -55,7 +55,7 @@ It demonstrates strong command of database design, data manipulation, and analyt
 ---
 
 ## 📂 Project Structure
-```bash
+``
 HR-Analytics-using-SQL/
 ├── 01_schema_creation.sql
 ├── 02_data_insertion.sql
@@ -70,8 +70,8 @@ HR-Analytics-using-SQL/
 
 ---
 
-## Author & Contact
+## Author and Contact
 
-Sneha Chafekanade    
+**Sneha Chafekanade**   
 📧 Email: n.snehachafekar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-chafekanade)
