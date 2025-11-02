@@ -4,12 +4,12 @@ A complete SQL-based case study to build, populate, and analyze a Human Resource
 ---
 
 ## 📌 Table of Contents
-<a name="overview"></a>
-<a name="problem-statement"></a>
-<a name="skills-demonstrated"></a>
-<a name="result-and-conclusion"></a>
-<a name="project-structure"></a>
-<a name="author--contact"></a>
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Result and Conclusion](#result-and-conclusion)
+- [Project Structure](#project-structure)
+- [Author & Contact](#author--contact)
 
 ---
 
