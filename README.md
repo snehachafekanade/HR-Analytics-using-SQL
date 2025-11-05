@@ -57,7 +57,6 @@ It demonstrates strong command of database design, data manipulation, and analyt
 ## Project Structure
 ```bash
 HR-Analytics-using-SQL/
-├── .gitignore
 ├── 01_schema_creation.sql
 ├── 02_data_insertion.sql
 ├── question_answer/
