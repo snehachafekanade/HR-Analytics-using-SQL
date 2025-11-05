@@ -59,7 +59,7 @@ It demonstrates strong command of database design, data manipulation, and analyt
 HR-Analytics-using-SQL/
 ├── 01_schema_creation.sql
 ├── 02_data_insertion.sql
-├── question_answer/
+├── questions_answers/
 │   ├── 01_where_clause.sql
 │   ├── 02_scalar_functions.sql
 │   ├── 03_basic_select.sql
